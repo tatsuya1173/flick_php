@@ -1,0 +1,15 @@
+
+     #msg
+     {
+         text-align: center;
+     }
+     #box 
+     {
+         background-color: #eee;
+         height: 300px;
+         width: 80%;
+         display: block;
+         border: 1px solid #999;
+         margin-right: auto;
+         margin-left: auto;
+     }
